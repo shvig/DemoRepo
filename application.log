@@ -1,0 +1,4 @@
+2022-09-19 12:57:54,199  INFO [main] TC_1_Login:16 - URL is opened
+2022-09-19 12:57:54,534  INFO [main] TC_1_Login:19 - Entered Username
+2022-09-19 12:57:54,654  INFO [main] TC_1_Login:21 - Entered Password
+2022-09-19 12:57:57,090  INFO [main] TC_1_Login:23 - Logged in Succesfully
